@@ -1,0 +1,32 @@
+
+".topView" : {
+ 	 top : 0,
+	height : 50,
+	left : 0,
+	right : 0,
+	backgroundColor : 'black'
+},
+".btntop":
+{
+	//style : 0,
+	left : 10,
+	top : 10,
+	height : 30,
+	width : 60,
+	title : 'click',
+	color : 'gray',
+	backgroundColor : 'black'
+},
+
+".btnright":
+{
+	//style : 0,
+	right : 10,
+	top : 10,
+	height : 30,
+	width : 60,
+	title : 'click',
+	color : 'gray',
+	backgroundColor : 'black'
+}
+

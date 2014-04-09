@@ -1,0 +1,16 @@
+{
+	"global": {},
+	"env:development": {},
+	"env:test": {},
+	"env:production": {},
+	"os:android": {},
+	"os:blackberry": {},
+	"os:ios": {},
+	"os:mobileweb": {},
+	"dependencies": {},
+	"birdHouse": {
+		"consumer_key": "XYdnMDaMkbl7tkCprrK4g",
+		"consumer_secret": "iAHq7HOICmRbwhQIDg8EwTjUFQdAQCGHaBKUFCHtJUc",
+		"callback_url": "callback_url"
+	}
+}

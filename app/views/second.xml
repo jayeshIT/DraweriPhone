@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" id="second" backgroundColor="teal">
+		<View Class="topView" id="topView">
+			<Button class="btntop" id="btntop"/>
+			<Button class="btnright" id="btnright"/>
+			</View>
+	</Window>
+</Alloy>

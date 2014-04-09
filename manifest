@@ -1,0 +1,9 @@
+#appname:Testmodule
+#appid:com.test.moduleios
+#type:ipad
+#guid:cc4333b1-8585-4be6-8133-060937241052
+#version:1.0
+#publisher:Jayesh
+#url:http://appcelerator.com
+#image:appicon.png
+#desc:This is demo

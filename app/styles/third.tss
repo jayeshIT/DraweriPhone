@@ -1,0 +1,6 @@
+
+".container" : {
+  right : Titanium.Platform.displayCaps.platformWidth,
+  width : Titanium.Platform.displayCaps.platformWidth,
+  backgroundColor : "pink"
+}
